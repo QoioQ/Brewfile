@@ -24,6 +24,7 @@ install ctags
 install eigen
 install lua
 install mcrypt
+install mysql
 install nodebrew
 install openssl
 install pkg-config
@@ -36,4 +37,7 @@ install vim --override-system-vi --with-lua --with-python3
 install yaml-cpp --C++11
 
 # App Store applications
+appstore Dash
+appstore Paw
+appstore Pixelmator
 appstore Xcode
